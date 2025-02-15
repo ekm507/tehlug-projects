@@ -88,3 +88,11 @@
 
 
 <a href="https://github.com/DnsChanger">لینک مخزن</a> | <a href="https://dnschanger.github.io">لینک سایت</a>
+
+
+<h2 dir="rtl">araste</h2>
+<p dir="rtl">
+آراسته یک ابزار خط‌فرمان مشابه figlet برای ساخت هنر اسکی است که از نوشته‌های فارسی و انگلیسی پشتیبانی می‌کند.
+
+
+<a href="https://github.com/ekm507/araste">لینک مخزن</a>
